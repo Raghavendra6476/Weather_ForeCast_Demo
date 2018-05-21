@@ -1,2 +1,2 @@
 # Weather_ForeCast_Demo
-Project to show Cities Weather ForeCast details
+Project to show Selected City Weather ForeCast details
